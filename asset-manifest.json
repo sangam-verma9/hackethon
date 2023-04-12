@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/hackethon/static/css/main.88cf9efd.css",
+    "main.js": "/hackethon/static/js/main.5d257fb0.js",
+    "static/media/imagehome.png": "/hackethon/static/media/imagehome.1bd5cf5309b726e182d5.png",
+    "static/media/about1.png": "/hackethon/static/media/about1.78755f4afe8997cabe3f.png",
+    "static/media/dis.png": "/hackethon/static/media/dis.4c9b91dc9e8db5254970.png",
+    "static/media/image15.jpg": "/hackethon/static/media/image15.a97a9e38c4214727d5f5.jpg",
+    "static/media/about2.png": "/hackethon/static/media/about2.13d6adb2b5514140a79f.png",
+    "static/media/image6.jpg": "/hackethon/static/media/image6.a583dc5a1936bc5fc681.jpg",
+    "static/media/image10.jpg": "/hackethon/static/media/image10.b655c42c88b8649a0e49.jpg",
+    "static/media/image2.jpg": "/hackethon/static/media/image2.dd352f71de038e2aa396.jpg",
+    "static/media/image5.jpg": "/hackethon/static/media/image5.f423af469e33f12a28ca.jpg",
+    "static/media/image8.jpg": "/hackethon/static/media/image8.e5fad8669fc7c292f949.jpg",
+    "static/media/image1.jpg": "/hackethon/static/media/image1.a3b1d6a2a3ccbcc10afe.jpg",
+    "static/media/image7.jpg": "/hackethon/static/media/image7.3124c9780832c466396b.jpg",
+    "static/media/stay.png": "/hackethon/static/media/stay.0f28a84e57c0c80fdcd0.png",
+    "static/media/image11.jpg": "/hackethon/static/media/image11.115b5c21b2e21f742ff7.jpg",
+    "static/media/image12.jpg": "/hackethon/static/media/image12.dff6f8224f017b293225.jpg",
+    "static/media/image13.jpg": "/hackethon/static/media/image13.86fc96d570bb6a3d857c.jpg",
+    "static/media/image14.jpg": "/hackethon/static/media/image14.8ea74bcb9b3e5417b980.jpg",
+    "static/media/logo.png": "/hackethon/static/media/logo.27d550d77cb5827e33dc.png",
+    "static/media/image4.jpg": "/hackethon/static/media/image4.d65b23b2f6d5439f152f.jpg",
+    "static/media/image9.jpg": "/hackethon/static/media/image9.3ee2a8dd9ac9fb07a24c.jpg",
+    "static/media/Discussion.png": "/hackethon/static/media/Discussion.259d87dfa7a10d07a5fb.png",
+    "static/media/image3.jpg": "/hackethon/static/media/image3.6ea4cf2d77c752e255f5.jpg",
+    "index.html": "/hackethon/index.html",
+    "main.88cf9efd.css.map": "/hackethon/static/css/main.88cf9efd.css.map",
+    "main.5d257fb0.js.map": "/hackethon/static/js/main.5d257fb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88cf9efd.css",
+    "static/js/main.5d257fb0.js"
+  ]
+}
