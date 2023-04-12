@@ -9,7 +9,7 @@ const Content=()=>{
                     <h1><i>Stay Tuned Content will upload soon.</i> </h1>
                 </div>
                 <div className="col-md-6">
-                    <img src={stay} alt=".." />
+                    <img src={stay} className="img-fluid" alt=".." />
                 </div>
             </div>
         </div>
