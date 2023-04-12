@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .nlink:hover{
+    background-color:rgb(227, 227, 219) ;
+    border-radius: 10px;
+} */
+.homecontent{
+    font-family:'Times New Roman', Times, serif;
+}
+
+ .login{
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+}
+
+.loginlink{
+    margin: 10px;
+}
+.cadehov:hover{
+    transform: scale(1.5,1.5);
+    cursor: pointer;
+}
+form div{
+    margin: 15px 0px;
+}
+.imageskew{
+    transform: rotate(-15deg);
+}
+.appbtn{
+    margin: 10px 15px;
+}
+.appbtn b{
+    font-size: 1.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.registerbg{
+    position:fixed;
+    height: 440px;
+    width: 500px;
+    z-index: -1;
+    opacity: 0.4;
+    top: 25%;
+    left: 32%;
+    transition: all linear;
+    animation: rot 3.5s linear infinite;
+}
+@keyframes rot{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@media (max-width:800px) {
+    .registerbg{
+        left:12%;
+    }
+}
+@media (max-width:500px) {
+    .registerbg{
+        left:-15%;
+    }
+}
+.learnheading{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.pyqcol{
+    background-color: rgb(210, 234, 243);
+}
+.pyqcol:hover{
+    background-color: rgb(176, 217, 233);
+}
+
+.learncardst{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.learncardst:hover{
+
+    border: 2px solid rgb(70, 70, 66);;
+    transform: scale(1.01,1.01);
+}
+
+.learnheading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cardhover:hover{
+    transform: scale(1.05,1.05);
+}
+.pyqclick{
+    text-decoration: none;
+    color: black;
+}
+.ratingheading , .aboutdis{
+    color:rgb(158, 158, 152);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rate input{
+    margin: 5px 5px;
+    font-size: 1.8rem;
+}
+.feedbacksubmit{
+    width: 100%;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.backdisscussion{
+    background: url("./images/Discussion.png") no-repeat;
+
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: auto;
+}
+footer p{
+    margin-top: 8px;
+}
+.footerlink{
+    margin: 0px 10px;
+    color: black;
+}
